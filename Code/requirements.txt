@@ -1,0 +1,11 @@
+ipykernel
+pandas
+openpyxl
+numpy
+scikit-learn
+matplotlib
+seaborn
+pyproject-toml
+cython
+holidays==0.24
+prophet==1.1.1
